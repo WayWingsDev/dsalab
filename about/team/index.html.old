@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to DSALAB Innovations - DSALAB</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Place favicon.ico and apple-touch-icon.png in the root directory-->
+    <link rel="stylesheet" href="/stylesheets/ghost-shield.css"/>
+    <script type="text/javascript" src="//use.typekit.net/zza7guc.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  </head>
+  <body>
+    <div class="container-fluid gray-dark-bg">
+      <div class="header-dimmer">
+        <div class="container">
+          <div class="header">
+            <div class="logo">
+              <a href="/">
+                <img src="/images/iron-yard-logo.svg"/>
+              </a>
+            </div>
+            <div class="nav">
+              <div class="primary-nav">
+                <ul>
+                  <li><a href="/locations">Locations</a></li>
+                  <li><a href="/events">Our Projects</a></li>
+                  <li><a href="/academy">Academy</a></li>
+                  <li><a href="/accelerator">Accelerator</a></li>
+                </ul>
+              </div>
+              <div class="secondary-nav">
+                <ul>
+                  <li><a href="/jobs">Jobs</a></li>
+                  <li><a href="/about">About</a></li>
+                  <li><a href="http://www.dsalab.com/">News</a></li>
+                  <li><a href="http://blog.theironyard.com">Blog</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="sub-nav">
+          <div class="col-xs-12">
+            <h2>Our Team</h2>
+            <ul>
+              <li><a href="#leadership">Leadership</a></li>
+         <!--     <li><a href="#accelerator">Accelerator</a></li>
+              <li><a href="#campus-directors">Designers</a></li>
+              <li><a href="#instructors">Instructors</a></li>-->
+            </ul>
+            <div class="triangle gray-dark-triangle"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12">
+          <h1 id="leadership" class="section-headline">Leadership</h1>
+          <hr>
+          <div class="bio">
+            <div class="bio-left"><img src="https://scontent-b-sea.xx.fbcdn.net/hphotos-frc3/t1.0-9/9042_684525298230231_56973041_n.jpg" class="photo-bio"/>
+            </div>
+            <div class="bio-right">
+              <h2>Msc. Ariel Vernaza</h2>
+              <h4>Chief Executive Officer</h4>
+              <p>Ariel went to Panama University and studied computer engineering, which led him to became an artificial intelligence scientist. After the Charles III Univesity of Madrid, had worn out their welcome, he packed all his stuff, moved to Madrid and start new story to his hacker roots as a software developer and a data analsys in the Group CAOS, of the computer science department in UC3M. After several other successful project creating a simulator to train the Advance driver assitence system, he moved back to Panama City, Panama, where he helped in a project for the SSA Panama Developer team and then move the Admios S,A, where is a Senior Developer. Also, He is currently serves as our CEO and is work sd out main &quot;Researcher.&quot;</p>
+              <ul class="links">
+                <li><a href="http://twitter.com/dsapanadora">@dsapandora</a></li>
+                <li><a href="http://www.linkedin.com/in/dsapandora">LinkedIn</a></li>
+                <li><a href="https://github.com/dsapandora">GitHub</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="bio">
+            <div class="bio-left"><img src="https://scontent-b-sea.xx.fbcdn.net/hphotos-xpf1/t1.0-9/1510762_1439756516242385_818675848_n.jpg" class="photo-bio"/>
+            </div>
+            <div class="bio-right">
+              <h2>Frederick Williams</h2>
+              <h4>Chief Marketing Officer</h4>
+              <p></p>
+              <ul class="links">
+                <li><a href="https://twitter.com/ericdodds">@ericdodds</a></li>
+                <li><a href="http://www.linkedin.com/in/ericdodds">LinkedIn</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="bio">
+            <div class="bio-left"><img src="http://www.pacificinkandartexpo.com/system/redactor_assets/pictures/40/facebook-default-no-profile-pic.jpg" class="photo-bio"/>
+            </div>
+            <div class="bio-right">
+              <h2>Andres Alexis</h2>
+              <h4>Chief Logistic Officer</h4>
+              <p></p>
+              <ul class="links">
+                <li><a href="https://twitter.com/masondesu">@masondesu</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="bio">
+            <div class="bio-left"><img src="http://www.pacificinkandartexpo.com/system/redactor_assets/pictures/40/facebook-default-no-profile-pic.jpg" class="photo-bio"/>
+            </div>
+            <div class="bio-right">
+              <h2>Juan Ayarza</h2>
+              <h4>Chief Strategy Officer</h4>
+              <p></p>
+              <ul class="links">
+                <li><a href="https://twitter.com/">@saddington</a></li>
+              </ul>
+            </div>
+          </div>
+          
+         
+          </div>
+        </div>
+      </div>
+    <div class="container-fluid gray-dark-bg">
+      <div class="footer">
+        <div class="row">
+          <div class="logo"><img src="/images/logo_c.png"></div>
+          <div class="footer-nav">
+            <ul>
+              <li><a href="/about">About</a></li>
+              <li><a href="/jobs">Jobs</a></li>
+              <li><a href="http://www.dsalab.com/news">News</a></li>
+              <li><a href="http://www.dsalab.com/blog">Blog</a></li>
+              <li><a href="/locations">Locations</a></li>
+              <li><a href="/academy">Academy</a></li>
+              <li><a href="/accelerator">Accelerator</a></li>
+            </ul>
+          </div>
+          <div class="copyright">2014 DSALAB. All Rights Reserved   </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <!-- Google Analytics: change UA-XXXXX-X to be your site's ID.-->
+  <script>
+    (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
+    function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
+    e=o.createElement(i);r=o.getElementsByTagName(i)[0];
+    e.src='//www.google-analytics.com/analytics.js';
+    r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
+    ga('create','UA-32355916-2');ga('send','pageview');
+    
+  </script>
+</html>

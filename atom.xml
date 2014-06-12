@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[The Iron Yard]]></title>
-  <link href="http://theironyard.com/atom.xml" rel="self"/>
-  <link href="http://theironyard.com/"/>
+  <link href="http://dsalab.com/atom.xml" rel="self"/>
+  <link href="http://dsalab.com/"/>
   <updated>2014-06-05T15:20:36-04:00</updated>
-  <id>http://theironyard.com/</id>
+  <id>http://dsalab.com/</id>
   <author>
     <name><![CDATA[The Iron Yard]]></name>
     
